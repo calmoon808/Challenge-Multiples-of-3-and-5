@@ -16,7 +16,7 @@ describe( 'Sum of a Multiple Function', function() {
 
   // when your tests pass, uncomment the next two and
   // change the expected value to your calculated result
-  /*
+  
   it( 'should return \'x\' for n=1000 (see multiples-spec.js)', function() {
     var sum = multiples.sumOfAMultiple(1000);
 
@@ -30,6 +30,6 @@ describe( 'Sum of a Multiple Function', function() {
     // Change the argument given to .equal() to the correct number
     sum.should.equal(0);
   });
-  */
+  
 
 });
